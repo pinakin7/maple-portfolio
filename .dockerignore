@@ -1,0 +1,14 @@
+.git
+**/node_modules
+**/.venv
+**/dist
+**/__pycache__
+**/.pytest_cache
+**/.mypy_cache
+**/.ruff_cache
+.npm-cache
+.env
+.env.*
+**/*.csv
+uploads
+data
