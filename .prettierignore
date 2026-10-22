@@ -1,0 +1,9 @@
+package-lock.json
+uv.lock
+services/analytics/
+dist/
+node_modules/
+AGENTS.md
+CODEX_TASK.md
+docs/IMPLEMENTATION_PLAN.md
+.npm-cache/
